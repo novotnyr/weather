@@ -1,5 +1,5 @@
 public class Weather {
     int getTemperature() {
-        return 27;
+        return 0;
     }
 }
